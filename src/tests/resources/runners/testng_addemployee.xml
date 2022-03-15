@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="OrangeHRM Regression Suite" parallel ="tests" thread-count ="3" verbose="1">
+
+	<test name="OrangeHRM - PIMpage Test">
+	<parameter name="browserName" value="chrome" />
+		<classes>
+			<class name="com.qa.oranges.tests.PIMpageTest" />
+
+		</classes>
+
+	</test>
+</suite>

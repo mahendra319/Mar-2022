@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="OrangeHRM Regression Suite" verbose="1">
+
+<listeners>
+<!-- <listener class-name = "com.qa.orange.listeners.ExtentReportListener" />
+<listener class-name = "com.qa.orange.listeners.ScreenshotListener" />  -->
+<listener class-name = "com.qa.orange.listeners.TestAllureListener" /> 
+</listeners>
+	<test name="OrangeHRM - LoginPage Test">
+	<parameter name="browserName" value="chrome" />
+		<classes>
+			<class name="com.qa.oranges.tests.LoginPageTest" />
+
+		</classes>
+
+	</test>
+
+
+	<test name="OrangeHRM - DashboardPage Test">
+	<parameter name="browserName" value="chrome" />
+		<classes>
+			<class name="com.qa.oranges.tests.DashboardPageTest" />
+
+		</classes>
+
+	</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</suite>
