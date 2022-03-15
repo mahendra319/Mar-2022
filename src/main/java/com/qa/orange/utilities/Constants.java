@@ -1,4 +1,4 @@
-package com.qa.oranges.utilities;
+package com.qa.orange.utilities;
 
 public class Constants {
 	

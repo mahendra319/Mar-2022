@@ -1,4 +1,4 @@
-package com.qa.oranges.utilities;
+package com.qa.orange.utilities;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

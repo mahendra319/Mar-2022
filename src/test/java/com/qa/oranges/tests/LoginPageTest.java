@@ -3,7 +3,7 @@ package com.qa.oranges.tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.qa.oranges.utilities.Constants;
+import com.qa.orange.utilities.Constants;
 import com.qa.organge.Base.BaseTest;
 
 import io.qameta.allure.Description;

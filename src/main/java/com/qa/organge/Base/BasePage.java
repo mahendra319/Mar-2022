@@ -16,7 +16,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
-import com.qa.oranges.utilities.OptionsManager;
+import com.qa.orange.utilities.OptionsManager;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

@@ -7,9 +7,9 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
-import com.qa.oranges.pages.DashboardPage;
-import com.qa.oranges.pages.LoginPage;
-import com.qa.oranges.pages.PimPage;
+import com.qa.orange.pages.DashboardPage;
+import com.qa.orange.pages.LoginPage;
+import com.qa.orange.pages.PimPage;
 
 public class BaseTest {
 

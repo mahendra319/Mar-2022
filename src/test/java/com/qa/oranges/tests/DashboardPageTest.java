@@ -5,7 +5,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.qa.oranges.utilities.Constants;
+import com.qa.orange.utilities.Constants;
 import com.qa.organge.Base.BaseTest;
 
 public class DashboardPageTest extends BaseTest{

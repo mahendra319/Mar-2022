@@ -1,9 +1,9 @@
-package com.qa.oranges.pages;
+package com.qa.orange.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import com.qa.oranges.utilities.ElementUtil;
+import com.qa.orange.utilities.ElementUtil;
 import com.qa.organge.Base.BasePage;
 
 public class PimPage extends BasePage{

@@ -1,4 +1,4 @@
-package com.qa.oranges.utilities;
+package com.qa.orange.utilities;
 
 import java.time.Duration;
 import java.util.ArrayList;
