@@ -1,4 +1,4 @@
-package com.qa.organge.Base;
+package com.qa.orange.Base;
 
 import java.io.File;
 import java.io.FileInputStream;

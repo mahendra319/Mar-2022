@@ -12,7 +12,7 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import com.qa.organge.Base.BasePage;
+import com.qa.orange.Base.BasePage;
 import com.tesults.tesults.Results;
 
 public class TesultsListener extends BasePage implements ITestListener {

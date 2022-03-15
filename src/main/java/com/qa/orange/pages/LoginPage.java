@@ -3,9 +3,9 @@ package com.qa.orange.pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import com.qa.orange.Base.BasePage;
 import com.qa.orange.utilities.Constants;
 import com.qa.orange.utilities.ElementUtil;
-import com.qa.organge.Base.BasePage;
 
 import io.qameta.allure.Step;
 

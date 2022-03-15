@@ -12,7 +12,7 @@ import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.TestListenerAdapter;
 
-import com.qa.organge.Base.BasePage;
+import com.qa.orange.Base.BasePage;
 
 
 

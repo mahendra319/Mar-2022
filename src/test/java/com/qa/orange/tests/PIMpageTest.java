@@ -1,13 +1,13 @@
-package com.qa.oranges.tests;
+package com.qa.orange.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+import com.qa.orange.Base.BaseTest;
 import com.qa.orange.utilities.Constants;
 import com.qa.orange.utilities.ExcelUtil;
-import com.qa.organge.Base.BaseTest;
 
 public class PIMpageTest extends BaseTest{
 
